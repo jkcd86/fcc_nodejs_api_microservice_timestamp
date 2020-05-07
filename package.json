@@ -1,0 +1,29 @@
+{
+  "name": "fcc_nodejs_api_microservice_timestamp",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkcd86/fcc_nodejs_api_microservice_timestamp.git"
+  },
+  "author": "Manuel Valtingojer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkcd86/fcc_nodejs_api_microservice_timestamp/issues"
+  },
+  "homepage": "https://github.com/jkcd86/fcc_nodejs_api_microservice_timestamp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "cors"
+  ]
+}
