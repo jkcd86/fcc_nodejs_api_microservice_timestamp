@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jkcd86/fcc_nodejs_api_microservice_timestamp#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "keywords": [
     "node",
